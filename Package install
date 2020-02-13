@@ -1,0 +1,4 @@
+# pkg update && pkg upgrade -y
+# pkg install python -y
+# pkg install git
+# pkg install nano
